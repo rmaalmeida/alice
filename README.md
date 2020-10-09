@@ -1,11 +1,25 @@
+# Version Disclaimer (from Rodrigo Almeida)
+
+The ALICE software is a very powerfull software that is able to cover a wide range of devices using only the M1K or the M2K USB interfaces.
+
+At Unifei we are using M1K as a remote laboratory to help students to keep their activities running without need to get together in the laboratories.
+
+This fork was specifically done to create a simplified version of the interface only with the scope and the signal generator.
+
+The development can be seen @ https://github.com/rmaalmeida/alice/tree/Version-1.3
+
+The installer can be downloaded from https://github.com/rmaalmeida/alice/tree/Version-1.3/Output
+
+To get the full version follow ADI links below.
+
 # ALICE
 
 Active Learning Interface (for) Circuits (and) Electronics:
 
 The ALICE Desktop software interface is a collection of software instruments written for use with the active learning hardware modules ADALM1000 (M1K) and ADALM2000 (M2K).
-### [ALICE 1.1 User Guide for M1K]:
+### [ALICE 1.3 User Guide for M1K]:
 ### [ALICE 2.0 User Guide for M2K]:
-[ALICE 1.1 User Guide for M1K]:https://wiki.analog.com/university/tools/m1k/alice/desk-top-users-guide
+[ALICE 1.3 User Guide for M1K]:https://wiki.analog.com/university/tools/m1k/alice/desk-top-users-guide
 [ALICE 2.0 User Guide for M2K]:https://wiki.analog.com/university/tools/m2k/alice/users-guide-m2k
 
 ## Background:
